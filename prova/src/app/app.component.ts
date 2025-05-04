@@ -3,6 +3,7 @@ import { RouterOutlet} from '@angular/router';
 import { Coppia } from './Models/coppia.model';
 import { MostraComponent } from './mostra/mostra.component';
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
